@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Price Predictor",
+    "imageSrc": "projects/laptop.png",
+    "description": "This is a project where supervised machine learning model is built to predict tentative laptop price based on its specifications.",
+    "source": "https://github.com/Akashsingh1118/Laptop-Price-Prediction/tree/main/SmartInternz_Project"
+  },
+  {
+    "id": 2,
+    "title": "React Expense-Tracker",
+    "imageSrc": "projects/expense.png",
+    "description": "This is a project made with complete React js.",
+    "source": "https://github.com/Akashsingh1118/ExpenseTracker"
+  },
+  {
+    "id": 3,
+    "title": "Graph Data Structure Library",
+    "imageSrc": "projects/graph.png",
+    "description": "General purpose graph library with several graph algorithms all at one place using c++.",
+    "source": "https://github.com/Akashsingh1118/Graph_DS"
+  },
+  {
+    "id": 4,
+    "title": "React todo app",
+    "imageSrc": "projects/todo.png",
+    "description": "This is a project made with complete React js.",
+    "source": "https://github.com/Akashsingh1118/Graph_DS"
+  }
+]
